@@ -1,0 +1,10 @@
+
+.box{
+    height: 650px;
+    width: 1200px;
+    /* background-color: antiquewhite; */
+    border: 2px solid black;
+    margin: auto;
+    position: relative;
+
+}
